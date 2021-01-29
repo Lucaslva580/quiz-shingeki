@@ -1,28 +1,31 @@
 {
     "bg": "https://d17lbu6bbzbdc8.cloudfront.net/wp-content/uploads/2020/08/28112607/Shingeki-no-Kyojin.jpg",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos Shingeki no Kyojin e prove ser um verdadeiro fã",
+    "title": "Quiz sobre Atack on Titan",
+    "description": "Teste os seus conhecimentos sobre Shingeki no Kyojin e prove ser um verdadeiro fã",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://media1.tenor.com/images/426f1906d77b75ba3f8215f3fdd3e8d4/tenor.gif?itemid=4938168",
+        "title": "Qual o nome da ilha onde os eldianos ficaram presos dentro das muralhas?",
+        "description": "",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Fardis",
+          "Paraíso",
+          "Paradis",
+          "Marley"
         ]
       },
       {
         "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
+        "title": "Nome do Titan primordial conhecido por sua capacidade de passar muito tempo transformado",
+        "description": "",
+        "answer": 3,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Ataque",
+           "Martelo",
+           "Mandíbula",
+           "Cargueiro",
+           "Bestial"
         ]
       }
     ],
